@@ -163,7 +163,9 @@ header{
 }
 
 /*Section 2*/
-
+.Section2{
+    height: 110vh;
+}   
 .fashon{
     width: 450px;
     height: 450px;
